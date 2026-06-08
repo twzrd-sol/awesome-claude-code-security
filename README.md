@@ -243,6 +243,7 @@
 - [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Zero-trust execution for multi-agent workflows with cross-agent policy enforcement.
 - [OWASP Top 10 for Agentic Applications](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) - 2026 standard: agent goal hijacking, tool misuse, identity abuse, delegation risks.
 - [NVIDIA Safety for Agentic AI](https://github.com/NVIDIA-AI-Blueprints/safety-for-agentic-ai) - Build/deploy/run safety patterns for agentic architectures.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring MCP server for Solana AI agent wallets. Verify counterparty identity before cross-agent interactions and x402 payments. Free `score_agent` + `preflight_check` tools.
 - [Fortune: AI's Triple Act at Black Hat/DEF CON](https://fortune.com/2026/08/12/hacker-bodyguard-target-ais-triple-act-at-the-years-biggest-security-showdowns/) - Coverage of agent-to-agent interaction risks and shadow AI attack surfaces.
 
 ## 🖥️ OS and Endpoint Hardening
